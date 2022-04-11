@@ -1,0 +1,13 @@
+.reloj {
+  color: rgb(0, 217, 255);
+  font-size: 2s0px;
+  font-family:'Courier New', Courier, monospace;
+  letter-spacing: 5px;
+  text-align: center;
+  width: 40px;
+  height: 20px;
+  position: relative;
+  top: 11px;
+  left: 41px;
+  
+}
